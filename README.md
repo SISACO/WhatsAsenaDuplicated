@@ -5,17 +5,17 @@
 - [@fusufs](https://t.me/fusufs)
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
+  <a href="https://github.com/SISACO/WhatsAsenaDuplicated/fork">
     <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
+  <a href="https://github.com/SISACO/WhatsAsenaDuplicated/stargazers">
     <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/SISACO/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
@@ -95,7 +95,7 @@ the user is responsible.
 
 ----
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/SISACO/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
   </a>
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
@@ -122,7 +122,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SISACO/WhatsAsenaDuplicated)
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
